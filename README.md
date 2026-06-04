@@ -27,7 +27,7 @@ with fixes and a few extra conveniences added.
 ### Build from source
 
 ```bash
-git clone https://github.com/yourusername/texty.git
+git clone https://github.com/Monukumar-21/texty.git
 cd texty
 make
 The binary will be ./texty. You can move it to a directory in your PATH if you like.
